@@ -1,0 +1,77 @@
+        body {
+            border: 10px solid black;
+            padding: 25px 0px 25px 0px;
+            padding-top: 0%;
+            margin: 25px;
+        }
+        
+        .body1 {
+            padding: 3%;
+        }
+        
+        .name {
+            text-align: center;
+            color: rgb(0, 0, 0);
+            display: inline-block;
+            padding: 25px 0px 25px 0px;
+            font-size: 12.5vmin;
+            height: 100%;
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 1.0), rgba(255, 255, 255, 0.4) 60%), linear-gradient(to left, rgb(212, 212, 212), rgba(255, 255, 255, 0.8) 60%), linear-gradient(to right, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.8) 10%);
+            /* background: linear-gradient(90deg, rgb(255, 255, 255) 50%, rgb(255, 255, 255) 100%, rgb(255, 255, 255) 0% 60%, rgb(0, 0, 0) 60% 80%, rgb(0, 0, 0) 10%); */
+            /*  background: linear-gradient( to bottom, rgb(255, 254, 254) 88% , #000000 0%); */
+            /*background: linear-gradient(to bottom, #333, #333 50%, #eee 75%, #333 88%);*/
+            width: 100%;
+            margin: 0px;
+            text-shadow: 10px 2px 3px rgb(169, 169, 169)
+        }
+        
+        .expcenter {
+            ;
+        }
+        
+        .exp2 {
+            display: inline-block;
+            margin: 25px;
+        }
+        
+        .exp1 {
+            display: inline-block;
+            margin: 25px;
+        }
+        
+        li {
+            font-family: 'Times New Roman', Times, serif;
+        }
+        
+        .contact {
+            text-decoration-line: underline;
+            text-align: left;
+            margin: 8px 0px 0px 105px;
+        }
+        
+        .whitenib {
+            font-size: 35px;
+            text-transform: rotate(-90deg);
+        }
+        
+        .envelope {
+            font-size: 35px;
+        }
+        
+        .emailaddy {
+            text-align: left;
+            margin: 0px 0px 0px 75px;
+        }
+        
+        .h3 {
+            text-align: left;
+            margin: 0px 0px 0px 75px;
+        }
+        
+        .p {
+            text-align: center;
+        }
+        
+        .yrs {
+            float: right;
+        }
